@@ -1,6 +1,6 @@
 # Example jobs
 
-The strongest result starts with the real context and a clear decision or deliverable.
+The strongest result starts with the current page, evidence and constraint, plus a clear decision or deliverable.
 
 ## Competitive gap
 

@@ -34,8 +34,8 @@ https://mcp.intelligentgrowth.app/mcp
 
 ### Claude Desktop
 
-1. Open Settings, then Connectors.
-2. If your plan supports custom connectors, add one named `Intelligent Growth`.
+1. Open Customize, then Connectors in Claude.
+2. Select +, then Add custom connector. Team and Enterprise Owners must first add it under Organization settings, then Connectors.
 3. Paste the hosted endpoint.
 4. Complete the secure sign-in.
 
@@ -49,11 +49,11 @@ Complete the browser sign-in, then return to Claude Code.
 
 ### ChatGPT
 
-Open Settings and find Connectors. If custom MCP connectors are available on your plan, add `Intelligent Growth`, paste the hosted endpoint and complete the secure sign-in.
+Full custom MCP setup is currently available on ChatGPT web for eligible Business, Enterprise and Edu workspaces. An admin or owner enables developer mode, then opens Settings or Workspace settings, Apps, and Create. Add `Intelligent Growth`, paste the endpoint, choose OAuth and scan the tools.
 
-For the guided path, use [the two-minute setup](https://intelligentgrowth.app/mcp/start?job=competitive-gap).
+For the guided path, use [the setup page](https://intelligentgrowth.app/mcp/start?job=competitive-gap).
 
-## Start with a real job
+## Start with the job on your desk
 
 ```text
 Use Intelligent Growth to run a competitive gap analysis for my product. Start by telling me the product context, customer evidence and competitor URLs you need. Do not begin the analysis until I have supplied the required context.

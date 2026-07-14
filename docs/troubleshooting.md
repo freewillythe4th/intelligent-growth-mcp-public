@@ -18,7 +18,7 @@ Ask the product to list the context it needs before beginning. Useful context no
 
 ## The result feels generic
 
-Add the real page, interview language, constraints, evidence and decision you need to make. Then ask for one recommendation, the reasoning, assumptions and missing proof.
+Add the current page, interview language, constraints, evidence and decision you need to make. Then ask for one recommendation, the reasoning, assumptions and missing proof.
 
 ## Asking for help
 
