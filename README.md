@@ -1,4 +1,4 @@
-# Intelligent Growth Product Marketing MCP Server
+# Intelligent Growth product marketing MCP server
 
 <p align="center">
   <a href="https://intelligentgrowth.app/mcp?utm_source=github&utm_medium=referral&utm_campaign=mcp_public_repo&utm_content=readme_banner">
@@ -14,38 +14,13 @@ Bring the homepage, customer evidence, launch brief or competitor set already on
 
 ## What is a product marketing MCP server?
 
-A product marketing MCP server gives an MCP-compatible AI client tools and context for repeatable product marketing jobs. It lets you ask for a positioning review, messaging hierarchy, competitive analysis or launch brief inside the AI client you already use.
+A product marketing MCP server connects an MCP-compatible AI client to tools and context for repeatable jobs such as positioning reviews, competitive analysis and launch planning.
 
-Intelligent Growth is hosted. You connect to the endpoint, complete the secure sign-in and bring the context for the current job. You do not need to install or operate a local server.
-
-## Hosted connection
-
-```text
-https://mcp.intelligentgrowth.app/mcp
-```
-
-The recommended path is the [guided setup](https://intelligentgrowth.app/mcp/start?job=competitive-gap&utm_source=github&utm_medium=referral&utm_campaign=mcp_public_repo&utm_content=setup_cta), which gives current instructions for each supported client and a starter prompt.
-
-### Claude Desktop
-
-1. Open Customize, then Connectors.
-2. Select +, then Add custom connector. Team and Enterprise owners may need to add it through organisation settings first.
-3. Paste the hosted endpoint.
-4. Complete the secure sign-in.
-
-### Claude Code
-
-```bash
-claude mcp add intelligent-growth --transport http https://mcp.intelligentgrowth.app/mcp
-```
-
-Complete the browser sign-in, then return to Claude Code.
-
-### ChatGPT
-
-Custom MCP setup depends on your current ChatGPT workspace and plan. If your workspace supports custom apps or connectors, add Intelligent Growth with the hosted endpoint and OAuth. The guided setup page keeps the client-specific instructions current.
+Intelligent Growth is hosted. You connect to the endpoint, complete the email access step and bring the context for the current job. You do not need to install or operate a local server.
 
 ## Product marketing jobs
+
+Free access includes the competitive gap workflow and a positioning diagnosis. Full positioning recommendations, messaging reviews and launch workflows require the Intelligent Growth OS membership. Use your membership email during connection and full access loads automatically.
 
 ### Competitive analysis
 
@@ -81,9 +56,36 @@ Use Intelligent Growth to plan this launch. Ask for the product change, audience
 
 See [example jobs](docs/example-jobs.md) for the context to bring and the output to expect.
 
+## Hosted connection
+
+The recommended path is the [guided setup](https://intelligentgrowth.app/mcp/start?job=competitive-gap&utm_source=github&utm_medium=referral&utm_campaign=mcp_public_repo&utm_content=setup_cta), which gives current instructions for each supported client and a starter prompt.
+
+```text
+https://mcp.intelligentgrowth.app/mcp
+```
+
+### Claude Desktop
+
+1. Open Customize, then Connectors.
+2. Select +, then Add custom connector. Team and Enterprise owners may need to add it through organisation settings first.
+3. Paste the hosted endpoint.
+4. Complete the email access step.
+
+### Claude Code, manual setup
+
+```bash
+claude mcp add intelligent-growth --transport http https://mcp.intelligentgrowth.app/mcp
+```
+
+Complete the browser access step, then return to Claude Code.
+
+### ChatGPT
+
+Custom MCP setup depends on your current ChatGPT workspace and plan. If your workspace supports custom apps or connectors, add Intelligent Growth with the hosted endpoint and OAuth. The guided setup page keeps the client-specific instructions current.
+
 ## What comes back
 
-Each completed job is designed to return:
+Each completed job returns:
 
 - One clear recommendation.
 - Reasoning tied to the context you supplied.
@@ -103,7 +105,7 @@ This public companion repository includes:
 - Troubleshooting, privacy and security guidance.
 - A clear description of the hosted product boundary.
 
-The server implementation and protected method files are not distributed here. Your AI client receives the applied result for the job you asked it to do.
+This is the public companion for the hosted product. Your AI client receives the applied result for the job you asked it to do.
 
 ## How the boundary works
 
@@ -125,7 +127,7 @@ Read the [public architecture note](docs/architecture.md) for more detail.
 
 ## Privacy
 
-Product analytics record safe events such as connection, method, access tier, client, outcome and broad error category. They do not record prompts, outputs, email addresses, credentials, company text or full URLs.
+Product analytics record safe events such as connection, method, access tier, client and outcome. They do not record prompts, outputs, email addresses, credentials, company text or full URLs.
 
 Read the current [privacy policy](https://intelligentgrowth.app/privacy) and [terms](https://intelligentgrowth.app/terms).
 
@@ -133,7 +135,7 @@ Read the current [privacy policy](https://intelligentgrowth.app/privacy) and [te
 
 ### Do I need to install a local server?
 
-No. Intelligent Growth is hosted. Connect your compatible AI client to the endpoint and complete the secure sign-in.
+No. Use the hosted endpoint above.
 
 ### Can I use it with Claude and ChatGPT?
 
@@ -147,13 +149,9 @@ The public starting jobs cover competitive analysis, positioning, messaging and 
 
 The result can explain the relevant principles, show the reasoning behind its recommendation and make assumptions visible. It should help you understand and challenge the work, not only hand back an answer.
 
-### Can I ask it to export its source material?
-
-No. Intelligent Growth is designed for applied product marketing work. It does not provide bulk source reproduction, method-file export or server implementation access.
-
 ### Does analytics record my prompt or output?
 
-No. Product analytics are designed to record safe usage events, not prompt text, output text, credentials, email addresses or company content.
+No. The [Privacy](#privacy) section above lists the exact boundary.
 
 ## Support
 

@@ -36,7 +36,7 @@ Safe product events may include:
 - Anonymous connection.
 - Method and access tier.
 - Supported client category.
-- Success or broad error category.
+- Success or failure outcome.
 - First result and repeat-use milestones.
 
 Events do not include prompts, outputs, email addresses, credentials, company text or full URLs.

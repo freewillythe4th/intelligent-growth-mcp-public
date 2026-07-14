@@ -18,14 +18,14 @@
     <circle cx="6" cy="6" r="6" fill="#2563EB"/>
     <text x="24" y="11" class="sans" font-size="15" font-weight="700" letter-spacing="2.1" fill="#1E3A8A">PRODUCT MARKETING · HOSTED MCP ACCESS</text>
 
-    <text x="0" y="82" class="serif" font-size="50" fill="#1F1511">Give your AI the product</text>
-    <text x="0" y="132" class="serif" font-size="50" fill="#1F1511">marketing method.</text>
+    <text x="0" y="82" class="serif" font-size="50" fill="#1F1511">Run product marketing methods</text>
+    <text x="0" y="132" class="serif" font-size="50" fill="#1F1511">inside your AI assistant.</text>
 
-    <g class="sans" font-size="18" fill="#1F1511">
+    <g class="sans" font-size="20" fill="#1F1511">
       <path d="M2 176l7 7 15-17" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
       <text x="38" y="183">Positioning, messaging, competitive analysis and launches</text>
       <path d="M2 214l7 7 15-17" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-      <text x="38" y="221">Claude, ChatGPT and other MCP clients</text>
+      <text x="38" y="221">Claude, eligible ChatGPT workspaces and other MCP clients</text>
       <path d="M2 252l7 7 15-17" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
       <text x="38" y="259">Free positioning diagnosis. No card required.</text>
     </g>
@@ -38,6 +38,5 @@
   <line x1="880" y1="76" x2="880" y2="384" stroke="#1F1511" stroke-opacity="0.1"/>
   <rect x="910" y="106" width="288" height="248" rx="18" fill="#DBEAFE"/>
   <image href="ig-logo-full.png" x="950" y="122" width="208" height="156" preserveAspectRatio="xMidYMid meet"/>
-  <text x="1054" y="306" text-anchor="middle" class="sans" font-size="13" font-weight="700" letter-spacing="1.4" fill="#1E3A8A">PRODUCT MARKETING MCP SERVER</text>
-  <text x="1054" y="332" text-anchor="middle" class="sans" font-size="14" fill="#5C4F47">Hosted. Secure. Always current.</text>
+  <text x="1054" y="318" text-anchor="middle" class="sans" font-size="14" font-weight="700" letter-spacing="0.7" fill="#1E3A8A">PRODUCT MARKETING MCP SERVER</text>
 </svg>

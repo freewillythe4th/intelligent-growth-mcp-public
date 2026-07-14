@@ -33,4 +33,14 @@ if ! rg -q 'utm_content=readme_banner' README.md; then
   exit 1
 fi
 
+if ! rg -q 'Free access includes the competitive gap workflow and a positioning diagnosis' README.md; then
+  echo 'Blocked: README does not distinguish free access from member methods.'
+  exit 1
+fi
+
+if rg -q 'secure sign-in|Give your AI the product marketing method|broad error category' README.md assets/readme-banner.svg docs/architecture.md; then
+  echo 'Blocked: public copy overstates the access, method, or analytics boundary.'
+  exit 1
+fi
+
 echo 'Public exposure audit passed.'
