@@ -1,0 +1,34 @@
+name: Setup problem
+description: Report a problem connecting an AI client
+title: "Setup: "
+labels: [setup]
+body:
+  - type: dropdown
+    id: client
+    attributes:
+      label: AI client
+      options:
+        - Claude Desktop
+        - Claude Code
+        - ChatGPT
+        - Another MCP client
+    validations:
+      required: true
+  - type: dropdown
+    id: step
+    attributes:
+      label: Step that failed
+      options:
+        - Adding the connector
+        - Browser sign-in
+        - Connector appearing in the client
+        - Running the first job
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Remove tokens, company content, customer records and confidential prompts before submitting.
+    validations:
+      required: true

@@ -1,0 +1,25 @@
+name: Product marketing job request
+description: Suggest a job the hosted MCP should help with
+title: "Job request: "
+labels: [job-request]
+body:
+  - type: input
+    id: job
+    attributes:
+      label: What job are you trying to finish?
+      placeholder: Review a homepage before launch
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: What context would you normally have?
+      description: Describe the kinds of inputs, not private company content.
+    validations:
+      required: true
+  - type: textarea
+    id: output
+    attributes:
+      label: What would a useful result contain?
+    validations:
+      required: true
