@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460" role="img" aria-labelledby="title desc">
+  <title id="title">Intelligent Growth product marketing MCP server</title>
+  <desc id="desc">Get product marketing guidance inside Claude and ChatGPT, starting with a free positioning diagnosis.</desc>
+  <defs>
+    <filter id="offset" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="7" dy="7" stdDeviation="0" flood-color="#1F1511" flood-opacity="0.14"/>
+    </filter>
+    <style>
+      .sans { font-family: Inter, Arial, sans-serif; }
+      .serif { font-family: "Instrument Serif", Georgia, serif; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="460" fill="#F4F4F2"/>
+  <rect x="30" y="30" width="1220" height="400" rx="20" fill="#FFFFFF" stroke="#1F1511" filter="url(#offset)"/>
+
+  <g transform="translate(74 72)">
+    <circle cx="6" cy="6" r="6" fill="#2563EB"/>
+    <text x="24" y="11" class="sans" font-size="15" font-weight="700" letter-spacing="2.1" fill="#1E3A8A">PRODUCT MARKETING · HOSTED MCP ACCESS</text>
+
+    <text x="0" y="82" class="serif" font-size="50" fill="#1F1511">Give your AI the product</text>
+    <text x="0" y="132" class="serif" font-size="50" fill="#1F1511">marketing method.</text>
+
+    <g class="sans" font-size="18" fill="#1F1511">
+      <path d="M2 176l7 7 15-17" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="38" y="183">Positioning, messaging, competitive analysis and launches</text>
+      <path d="M2 214l7 7 15-17" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="38" y="221">Claude, ChatGPT and other MCP clients</text>
+      <path d="M2 252l7 7 15-17" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="38" y="259">Free positioning diagnosis. No card required.</text>
+    </g>
+
+    <rect x="0" y="282" width="210" height="50" rx="25" fill="#1F1511"/>
+    <text x="24" y="314" class="sans" font-size="15" font-weight="700" fill="#FFFFFF">GET FREE ACCESS</text>
+    <path d="M174 307h16m-6-6 6 6-6 6" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <line x1="880" y1="76" x2="880" y2="384" stroke="#1F1511" stroke-opacity="0.1"/>
+  <rect x="924" y="106" width="260" height="248" rx="18" fill="#DBEAFE"/>
+  <image href="ig-logo-full.png" x="950" y="122" width="208" height="156" preserveAspectRatio="xMidYMid meet"/>
+  <text x="1054" y="306" text-anchor="middle" class="sans" font-size="13" font-weight="700" letter-spacing="1.4" fill="#1E3A8A">PRODUCT MARKETING MCP SERVER</text>
+  <text x="1054" y="332" text-anchor="middle" class="sans" font-size="14" fill="#5C4F47">Hosted. Secure. Always current.</text>
+</svg>

@@ -18,4 +18,19 @@ if rg -n --hidden --glob '!.git/**' --glob '!scripts/audit-public.sh' '(api[_-]?
   exit 1
 fi
 
+if [[ ! -f assets/readme-banner.png || ! -f assets/ig-logo-full.png ]]; then
+  echo 'Blocked: the public repository banner or canonical logo asset is missing.'
+  exit 1
+fi
+
+if ! rg -q 'assets/readme-banner\.png' README.md; then
+  echo 'Blocked: README does not use the approved public repository banner.'
+  exit 1
+fi
+
+if ! rg -q 'utm_content=readme_banner' README.md; then
+  echo 'Blocked: README banner is missing its tracked product link.'
+  exit 1
+fi
+
 echo 'Public exposure audit passed.'

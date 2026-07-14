@@ -1,8 +1,8 @@
 # Intelligent Growth Product Marketing MCP Server
 
 <p align="center">
-  <a href="https://intelligentgrowth.app/mcp?utm_source=github&utm_medium=referral&utm_campaign=mcp_public_repo&utm_content=readme_logo">
-    <img src="https://intelligentgrowth.app/images/ig-logo/ig-logo-full.png" alt="Intelligent Growth" width="220">
+  <a href="https://intelligentgrowth.app/mcp?utm_source=github&utm_medium=referral&utm_campaign=mcp_public_repo&utm_content=readme_banner">
+    <img src="assets/readme-banner.png" alt="Get free access to the Intelligent Growth product marketing MCP server">
   </a>
 </p>
 
@@ -91,7 +91,7 @@ Each completed job is designed to return:
 - A working deliverable you can edit.
 - Relevant principles that help you understand the decision.
 
-The useful result is not a generic list of ideas. It is a decision and a first version grounded in the real material you brought.
+The useful result is not a generic list of ideas. It is a decision and a first version grounded in the material you brought.
 
 ## What this repository contains
 
