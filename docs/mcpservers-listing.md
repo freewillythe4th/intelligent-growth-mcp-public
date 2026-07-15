@@ -12,7 +12,7 @@ Run positioning, messaging, competitive analysis and launch planning from Claude
 
 ## Link
 
-Use the final public GitHub repository URL once it exists. The README banner and calls to action carry tracked links to the product page.
+https://github.com/freewillythe4th/intelligent-growth-mcp-public
 
 ## Category
 
@@ -20,7 +20,7 @@ Marketing
 
 ## Contact email
 
-Use Will's Intelligent Growth support or business email at submission time. Do not add a personal email address to this public repository.
+will@intelligentgrowth.app
 
 ## Longer description for directories that allow it
 
