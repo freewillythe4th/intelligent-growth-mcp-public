@@ -6,9 +6,9 @@
   </a>
 </p>
 
-Intelligent Growth is a hosted Connector that gives Claude and ChatGPT maintained product marketing methods for positioning, messaging, competitive analysis, launch planning and go-to-market work.
+Intelligent Growth is a hosted Connector that gives Claude and ChatGPT 53 maintained product marketing skills they can run on demand.
 
-Bring the homepage, customer evidence, launch brief or competitor set already on your desk. Intelligent Growth asks for any missing company context, applies the right method and returns one recommendation, the reasoning, the assumptions and a working deliverable you can improve.
+Bring the homepage, customer evidence, launch brief or competitor set already on your desk. Intelligent Growth asks for any missing company context, runs the right skill and returns one recommendation, the reasoning, the assumptions and a working deliverable you can improve.
 
 [Start with the guided setup](https://intelligentgrowth.app/mcp/start?job=competitive-gap&utm_source=github&utm_medium=referral&utm_campaign=mcp_public_repo&utm_content=setup_cta).
 
@@ -95,7 +95,7 @@ Each completed job returns:
 - A working deliverable you can edit.
 - Relevant principles that help you understand the decision.
 
-The result is a decision and a first version grounded in the material you brought, with the method and reasoning clear enough to review.
+The result is a decision and a first version grounded in the material you brought, with the reasoning clear enough to review.
 
 ## What this repository contains
 
@@ -118,18 +118,18 @@ Your AI client
     v
 Hosted Intelligent Growth service
     |
-    | applies the right method to your context
+    | runs the right skill with your context
     v
 Structured result returned to your AI client
 ```
 
-The result can teach relevant principles, explain the process and show why a recommendation holds. It does not export protected method files, source libraries or the server implementation.
+The result can teach relevant principles, explain the process and show why a recommendation holds. It does not export protected skill files, source libraries or the server implementation.
 
 Read the [public architecture note](docs/architecture.md) for more detail.
 
 ## Privacy
 
-Product analytics record safe events such as connection, method, access tier, client and outcome. They do not record prompts, outputs, email addresses, credentials, company text or full URLs.
+Product analytics record safe events such as connection, skill, access tier, client and outcome. They do not record prompts, outputs, email addresses, credentials, company text or full URLs.
 
 Read the current [privacy policy](https://intelligentgrowth.app/privacy) and [terms](https://intelligentgrowth.app/terms).
 

@@ -26,7 +26,7 @@ will@intelligentgrowth.app
 
 ## Longer description for directories that allow it
 
-Intelligent Growth is a hosted product marketing Connector for marketers and founders working on positioning, messaging, competitive analysis, launches and go-to-market decisions. Bring the homepage, customer evidence, launch brief or competitor set already on your desk. It asks for missing company context, applies the right maintained method and returns one recommendation, the reasoning, assumptions and a working deliverable you can improve. The positioning diagnosis and competitive gap are free. The complete 53-skill Connector is free for 7 days, with a card required, then A$49 a month unless cancelled. No local server installation is required.
+Intelligent Growth is a hosted product marketing Connector that gives Claude and ChatGPT 53 maintained skills they can run on demand. Bring the homepage, customer evidence, launch brief or competitor set already on your desk. It asks for missing company context, runs the right skill and returns one recommendation, the reasoning, assumptions and a working deliverable you can improve. The positioning diagnosis and competitive gap are free. The complete 53-skill Connector is free for 7 days, with a card required, then A$49 a month unless cancelled. No local server installation is required.
 
 ## Product link
 
