@@ -6,9 +6,9 @@
   </a>
 </p>
 
-Intelligent Growth is a hosted product marketing MCP server for positioning, messaging, competitive analysis, launch planning and go-to-market work in Claude and ChatGPT.
+Intelligent Growth is a hosted Connector that gives Claude and ChatGPT maintained product marketing methods for positioning, messaging, competitive analysis, launch planning and go-to-market work.
 
-Bring the homepage, customer evidence, launch brief or competitor set already on your desk. Intelligent Growth returns one recommendation, the reasoning behind it, the assumptions it made and a working deliverable you can improve.
+Bring the homepage, customer evidence, launch brief or competitor set already on your desk. Intelligent Growth asks for any missing company context, applies the right method and returns one recommendation, the reasoning, the assumptions and a working deliverable you can improve.
 
 [Start with the guided setup](https://intelligentgrowth.app/mcp/start?job=competitive-gap&utm_source=github&utm_medium=referral&utm_campaign=mcp_public_repo&utm_content=setup_cta).
 
@@ -20,7 +20,9 @@ Intelligent Growth is hosted. You connect to the endpoint, complete the email ac
 
 ## Product marketing jobs
 
-Free access includes the competitive gap workflow and a positioning diagnosis. Full positioning recommendations, messaging reviews and launch workflows require the Intelligent Growth OS membership. Use your membership email during connection and full access loads automatically.
+Free access includes the competitive gap workflow and a positioning diagnosis. Full positioning recommendations, messaging reviews, launch workflows and the complete catalogue require the Intelligent Growth OS membership. You can try the complete Connector free for 7 days. A payment card is required, then the trial becomes A$49 a month unless you cancel before it ends. Annual access is A$490 and does not include a trial.
+
+[Start the 7-day free trial](https://intelligent-growth.beehiiv.com/upgrade?offer_id=2838855a-622b-410e-aba8-a22b8ff37bb0&utm_source=github&utm_medium=referral&utm_campaign=connector_trial&utm_content=readme).
 
 ### Competitive analysis
 
@@ -93,7 +95,7 @@ Each completed job returns:
 - A working deliverable you can edit.
 - Relevant principles that help you understand the decision.
 
-The useful result is not a generic list of ideas. It is a decision and a first version grounded in the material you brought.
+The result is a decision and a first version grounded in the material you brought, with the method and reasoning clear enough to review.
 
 ## What this repository contains
 

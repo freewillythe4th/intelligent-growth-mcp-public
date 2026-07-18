@@ -1,5 +1,7 @@
 # MCP Servers listing copy
 
+Status: Submitted and in review as reported by Will on 16 July 2026.
+
 Submission page: https://mcpservers.org/submit
 
 ## Server name
@@ -8,7 +10,7 @@ Intelligent Growth: Product Marketing MCP Server
 
 ## Short description
 
-Run positioning, messaging, competitive analysis and launch planning from Claude or ChatGPT with a hosted product marketing MCP server.
+Give Claude or ChatGPT 53 maintained product marketing skills for positioning, messaging, competitive analysis, launch planning and go-to-market work.
 
 ## Link
 
@@ -24,7 +26,7 @@ will@intelligentgrowth.app
 
 ## Longer description for directories that allow it
 
-Intelligent Growth is a hosted product marketing MCP server for marketers and founders working on positioning, messaging, competitive analysis, launches and go-to-market decisions. Bring the homepage, customer evidence, launch brief or competitor set already on your desk. The server returns one recommendation, the reasoning behind it, the assumptions it made and a working deliverable you can improve. Connect through the guided setup page. No local server installation is required.
+Intelligent Growth is a hosted product marketing Connector for marketers and founders working on positioning, messaging, competitive analysis, launches and go-to-market decisions. Bring the homepage, customer evidence, launch brief or competitor set already on your desk. It asks for missing company context, applies the right maintained method and returns one recommendation, the reasoning, assumptions and a working deliverable you can improve. The positioning diagnosis and competitive gap are free. The complete 53-skill Connector is free for 7 days, with a card required, then A$49 a month unless cancelled. No local server installation is required.
 
 ## Product link
 
